@@ -31,8 +31,8 @@ return [
 	'migCreate'       => "\tCria uma nova migração chamada [name]",
 	'nameMigration'   => 'Nomeie o arquivo de migração',
 	'migNumberError'  => 'O número da migração deve ter três dígitos e não deve haver lacunas na sequência.',
-	'rollBackConfirm' => 'Are you sure you want to rollback?',
-	'refreshConfirm'  => 'Are you sure you want to refresh?',
+	'rollBackConfirm' => 'Tem a certeza que pretende fazer rollback?',
+	'refreshConfirm'  => 'Tem a certeza que pretende fazer refresh?',
 
 	'latest'            => 'Executando todas as novas migrações...',
 	'generalFault'      => 'A migração falhou!',
