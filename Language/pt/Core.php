@@ -12,7 +12,7 @@
 // Core language settings
 return [
 	'copyError'                    => 'Um erro foi encontrado ao tentar substituir o arquivo. Por favor, certifique-se de que seu diretório tem permissões de escrita.',
-	'enabledZlibOutputCompression' => 'Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.',
+	'enabledZlibOutputCompression' => 'A directiva ini zlib.output_compression está activada. Isto não vai funcionar correctamente com os output buffers.',
 	'invalidFile'                  => 'Arquivo inválido: {0}',
 	'missingExtension'             => 'A extensão {0} não está carregada.',
 	'noHandlers'                   => '{0} deve fornecer pelo menos um handler.',
