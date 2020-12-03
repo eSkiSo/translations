@@ -30,11 +30,11 @@ return [
 	'invalidRoute' => '{0} não é uma rota válida.',
 
 	// DownloadResponse
-	'cannotSetBinary'        => 'When setting filepath can not set binary.',
-	'cannotSetFilepath'      => 'When setting binary can not set filepath: {0}',
-	'notFoundDownloadSource' => 'Not found download body source.',
-	'cannotSetCache'         => 'It does not supported caching for downloading.',
-	'cannotSetStatusCode'    => 'It does not supported chnage status code for downloading. code: {0}, reason: {1}',
+	'cannotSetBinary'        => 'Ao definir o caminho do arquivo não pode definir como binário.',
+	'cannotSetFilepath'      => 'Ao definir binário, não é possivel definir o caminho do arquivo: {0}',
+	'notFoundDownloadSource' => 'Não encontrado a origem do corpo do download.',
+	'cannotSetCache'         => 'Cache para download não suportada.',
+	'cannotSetStatusCode'    => 'Não é compatível com a alteração do código de status para download. código: {0}, motivo: {1}',
 
 	// Response
 	'missingResponseStatus' => 'Resposta HTTP está sem um código de status',
